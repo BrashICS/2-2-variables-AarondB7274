@@ -10,6 +10,15 @@
 
 
 // Some example variables
-let it_is_christmas = false
-let teaching_partner = "Mr. Squirrel"
-let number_of_students = 27
+let width = 10;
+let length = 5;
+let area = width * length;
+console.log("Area:"+area);
+let first_name = "Santa";
+let last_name = "Claws"
+last_name = "Claus";
+console.log("I still belive in",first_name,last_name+".");
+console.log(typeof length, last_name);
+const PI = 3.14;
+let radius = 5;
+console.log("Area of circle is:"+PI*radius*radius)
